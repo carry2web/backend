@@ -15,7 +15,7 @@ Documentation for this repo lives on docs.deso.org. Specifically, the following
 docs should give you everything you need to get started:
 
 - [DeSo Code Walkthrough](https://docs.deso.org/code/walkthrough)
-- [Setting Up Your Dev Environment](https://docs.deso.org/code/dev-setup)
+- [Setting Up Your Dev Environment](https://docs.deso.org/deso-tutorial-build-apps#dev-setup)
 - [Making Your First Changes](https://docs.deso.org/code/making-your-first-changes)
 
 # Common Errors and their solutions
